@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is the LGE IMS features. -->
+<permissions>
+    <!-- IMSPhone - for interworking with RIL (modem) -->
+    <feature name="com.lge.ims.imsphone" />
+    <!-- VoLTE -->
+    <feature name="com.lge.ims.volte" />
+    <feature name="com.lge.software.volte" />
+</permissions>
